@@ -1,0 +1,18 @@
+
+pt-online-schema-change - online table changes
+https://www.percona.com/doc/percona-toolkit/LATEST/pt-online-schema-change.html
+
+gh-ost - online table changes
+https://github.com/github/gh-ost
+
+orchestrator - mangaing mysql repication
+https://github.com/github/orchestrator
+
+pmm - monitoring 
+https://www.percona.com/software/database-tools/percona-monitoring-and-management
+
+mysqlpump - logical fast backup
+https://www.percona.com/blog/2017/04/17/the-mysqlpump-utility/
+
+Im adding a list of additional mysql tools that may help you 
+https://github.com/shlomi-noach/awesome-mysql
